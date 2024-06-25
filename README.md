@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aalok-55
-- 👀 I’m interested in ... mechanisms of machines
+- 👀 I’m interested in ... machines
 - 🌱 I’m currently learning ... python and html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... aalok55thapa@gmail.com
